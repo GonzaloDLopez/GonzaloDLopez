@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gonzalo López 👋
 
-<!--
-**GonzaloDLopez/GonzaloDLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & Technical Support from Argentina
 
-Here are some ideas to get you started:
+## Tech Stack
+- Kotlin
+- Spring Boot
+- React
+- PostgreSQL
+- MongoDB
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- ZorApp Random
+- Booking Platform
+- Library Management System
+- Conversational Chatbot
+
+## Currently
+- Commercial Advisor & Technical Support Coordination at Educamos
+
+## Contact
+- LinkedIn: www.linkedin.com/in/gonzalo-damián-lópez
+- Email: lopezgonzalodamian@gmail.com
