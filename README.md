@@ -10,7 +10,7 @@ Software Developer & Technical Support from Argentina
 - MongoDB
 - Docker
 
-## Featured Projects
+## Featured Projects (coming soon)
 - ZorApp Random
 - Booking Platform
 - Library Management System
