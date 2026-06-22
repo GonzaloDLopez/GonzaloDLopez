@@ -18,14 +18,14 @@ Software Developer & Technical Support from Argentina
 
 # Featured Projects 
 
-### Library Management System: (06/2026).
+### Library Management System: Booklibre - (06/2026).
   - Backend:  [book-lending-system-backend](https://github.com/GonzaloDLopez/book-lending-system-backend)
   - Frontend: [book-lending-system-frontend](https://github.com/GonzaloDLopez/book-lending-system-frontend)
 
 ### Booking Platform: (06/2026).
   - (coming soon)
 ### ZorApp Random: v1(01/2026)
-  - App Play Store: [zorapp.sorteos](https://play.google.com/store/apps/details?id=com.zorapp.sorteos)
+  - App Play Store: [ZorApp Random - Sorteos](https://play.google.com/store/apps/details?id=com.zorapp.sorteos)
   
 ### Conversational Chatbot (11/2025).
   - (coming soon)
