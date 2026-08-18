@@ -22,7 +22,7 @@ Software Developer & Technical Support from Argentina
   - Backend:  [book-lending-system-backend](https://github.com/GonzaloDLopez/book-lending-system-backend)
   - Frontend: [book-lending-system-frontend](https://github.com/GonzaloDLopez/book-lending-system-frontend)
 
-### Booking Platform: (06/2026).
+### Booking Platform: Agendify - (06/2026).
   - Backend:  [appointment-booking-system-backend](https://github.com/GonzaloDLopez/appointment-booking-system-backend)
   - Frontend: [appointment-booking-system-frontend](https://github.com/GonzaloDLopez/appointment-booking-system-frontend)
     
