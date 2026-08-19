@@ -29,10 +29,10 @@ Software Developer & Technical Support from Argentina
 ### ZorApp Random: v1(01/2026)
   - App Play Store: [ZorApp Random - Sorteos](https://play.google.com/store/apps/details?id=com.zorapp.sorteos)
   
-### Conversational Chatbot - (11/2025).
+### Conversational Chatbot - (12/2025).
   - (coming soon)
     
-### Pickle Rick - Wollok Game (OOP) - (06/2024).
+### Pickle Rick - Wollok Game (OOP) - (12/2024).
   - Pickle Rick [By Rick and Morty](https://github.com/GonzaloDLopez/rick-and-morty-game)
 
 ## Currently
