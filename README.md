@@ -18,6 +18,10 @@ Software Developer & Technical Support from Argentina
 
 # Featured Projects 
 
+### ZorApp Random: v2 (08/2026)
+  - Play Store App: [ZorApp Random: Sorteos y Rifas](https://play.google.com/store/apps/details?id=com.zorapp.sorteos)
+  - Documentation: [ZorApp Documentation](https://github.com/GonzaloDLopez/zorapp-random)
+    
 ### Library Management System: Booklibre - (06/2026).
   - Backend:  [book-lending-system-backend](https://github.com/GonzaloDLopez/book-lending-system-backend)
   - Frontend: [book-lending-system-frontend](https://github.com/GonzaloDLopez/book-lending-system-frontend)
@@ -26,9 +30,6 @@ Software Developer & Technical Support from Argentina
   - Backend:  [appointment-booking-system-backend](https://github.com/GonzaloDLopez/appointment-booking-system-backend)
   - Frontend: [appointment-booking-system-frontend](https://github.com/GonzaloDLopez/appointment-booking-system-frontend)
     
-### ZorApp Random: v1(01/2026)
-  - App Play Store: [ZorApp Random - Sorteos](https://play.google.com/store/apps/details?id=com.zorapp.sorteos)
-  
 ### Conversational Chatbot - (12/2025).
   - (coming soon)
     
