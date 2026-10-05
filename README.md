@@ -18,7 +18,11 @@ Software Developer & Technical Support from Argentina
 
 # Featured Projects 
 
-### ZorApp Random: v2 (08/2026)
+### Frikiando: V1(10/2026)
+  - Play Store App: [Closed testing]()
+  - Documentation: [Frikiando Documentation](https://github.com/GonzaloDLopez/Frikiando)
+  - 
+### ZorApp Random: V1(06/2026) | V2(08/2026)
   - Play Store App: [ZorApp Random: Sorteos y Rifas](https://play.google.com/store/apps/details?id=com.zorapp.sorteos)
   - Documentation: [ZorApp Documentation](https://github.com/GonzaloDLopez/zorapp-random)
     
