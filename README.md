@@ -18,8 +18,12 @@ Software Developer & Technical Support from Argentina
 
 # Featured Projects 
 
+### ZorApp | Corporate Website
+- Official website for ZorApp, a digital solutions and software development brand.
+- Website: [zorapp.com.ar](https://zorapp.com.ar/)
+
 ### Frikiando: V1(10/2026)
-  - Play Store App: [Closed testing]()
+  - Play Store App: [Frikiando](https://play.google.com/store/apps/details?id=com.zorapp.frikiando&pcampaignid=web_share)
   - Documentation: [Frikiando Documentation](https://github.com/GonzaloDLopez/Frikiando)
     
 ### ZorApp Random: V1(06/2026) | V2(08/2026)
